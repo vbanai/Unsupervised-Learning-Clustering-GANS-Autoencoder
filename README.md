@@ -11,6 +11,6 @@ and if the object's or objects' position on the images are varying. I tested the
 </br>
 AUTOENCODERS are a specific type of feedforward neural networks where the input is the same as the output. They compress the input into</br>
 a lower-dimensional code and then reconstruct the output from this representation. It can be used as solution for several problems, e.g.</br>
-anomaly detection. Now I just created a quite simply model using Tensorflow to check, who it performs on a small amount of images.</br>
+anomaly detection. Now I just created a quite simply model using Tensorflow to check, how it performs on a small amount of images.</br>
 </br>
 K-mean clustering</br>

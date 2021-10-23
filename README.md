@@ -13,6 +13,6 @@ objects' position on the images are varying. I tested the model created in Pytor
 AUTOENCODERS are a specific type of feedforward neural networks where the input is the same as the output. They </br>
 compress the input into a lower-dimensional code and then reconstruct the output from this representation. It can </br>
 be used as solution for several problems, e.g. anomaly detection. Now I just created a quite simply model using .</br>
-Tensorflow  images to check, how it performs on a small amount of</br>
+Tensorflow to check, how the model performs on a small amount of images.</br>
 </br>
 K-mean clustering</br>

@@ -15,4 +15,4 @@ compress the input into a lower-dimensional code and then reconstruct the output
 be used as solution for several problems, e.g. anomaly detection. Now I just created a quite simply model using .</br>
 Tensorflow to check, how the model performs on a small amount of images.</br>
 </br>
-K-mean clustering</br>
+K-MEAN CLUSTERING</br>

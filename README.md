@@ -10,9 +10,13 @@ of pictures for the tandem training, and if the pictures are quite similiar, for
  faces. I was curious how the model performs if we have a small amount of pictures and if the object's or   </br>
 objects' position on the images are varying. I tested the model created in Pytorch on 210 dolphin images.</br>
 </br>
-AUTOENCODERS are a specific type of feedforward neural networks where the input is the same as the output. They </br>
-compress the input into a lower-dimensional code and then reconstruct the output from this representation. It can </br>
-be used as solution for several problems, e.g. anomaly detection. Now I just created a quite simply model using .</br>
-Tensorflow to check, how the model performs on a small amount of images.</br>
+AUTOENCODERS are a specific type of feedforward neural networks where the input is the same as the output. </br>
+They compress the input into a lower-dimensional code and then reconstruct the output from this  </br>
+representation. It can be used as solution for several problems, e.g. anomaly detection. Now I </br>
+just created a quite simply model using. Tensorflow to check, how the model performs on a small</br>
+amount of images.</br>
 </br>
 K-MEAN CLUSTERING</br>
+</br>
+The objective of K-means is simple: group similar data points together and discover underlying patterns.
+I use this algorithms in the "ML technics in Sales and Markeitng" chapter as well.

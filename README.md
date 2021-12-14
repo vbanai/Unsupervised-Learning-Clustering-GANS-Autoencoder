@@ -18,5 +18,5 @@ amount of images.</br>
 </br>
 K-MEAN CLUSTERING</br>
 </br>
-The objective of K-means is simple: group similar data points together and discover underlying patterns.
+The objective of K-means is simple: group similar data points together and discover underlying patterns.</br>
 I use this algorithms in the "ML technics in Sales and Markeitng" chapter as well.
